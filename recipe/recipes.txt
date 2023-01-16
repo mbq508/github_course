@@ -1,4 +1,10 @@
-hello again Motahare
+<<<<<<< HEAD
+hello again Moti
 how are you doing?
 I am good, thanks
 Hi
+=======
+hello again Moti
+how are you doing?
+I am happy
+>>>>>>> experimental
